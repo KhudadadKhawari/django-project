@@ -1,2 +1,6 @@
 !Build/
+.idea/
 venv/
+blog/__pycache__/
+django_project/__pycache__/
+blog/migrations/__pycache__
